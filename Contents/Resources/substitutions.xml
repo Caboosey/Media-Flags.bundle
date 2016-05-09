@@ -531,6 +531,7 @@
 		<match name="tvp" expression="tvp" />
 		<match name="tv_land" expression="tv land" />
 		<match name="twisted_pictures" expression="twisted" />
+		<match name="TWiT" expression="(TWiT|TWiT.?tv)" />
 		<match name="ugc" expression="ugc" />
 		<match name="uk_film_council" expression="uk film council" />
 		<match name="united_artists" expression="united artists" />
